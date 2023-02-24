@@ -1,0 +1,25 @@
+Id:
+
+Title:
+
+Environment: Mac OS Catalina 10.15.7
+
+Precondition:
+
+Severity:
+
+Priority:
+
+STR:
+
+AR:
+
+ER:
+
+Attachments:
+
+-------------------------------
+
+	Author: Anton Strahov
+
+	Date: XX.XX.XXXX
